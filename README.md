@@ -1,6 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-# Date: 3.10.2025
+# Date: 1.11.2025
 # Register no: 212222230067
 # Aim:
 
